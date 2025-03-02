@@ -13,7 +13,8 @@ A user-friendly tracking system is needed to create awareness and encourage eco-
 
 3) Solution :-
 
-The Carbon Footprint Tracker is built using Streamlit and Flask/Django to offer an interactive and real-time estimation of an individual's carbon emissions. Users enter details about their daily activities, and the system calculates their footprint based on scientific emission factors. The platform provides:
+The Carbon Footprint Tracker is built using Streamlit and Flask/Django to offer an interactive and real-time estimation of an individual's carbon emissions. 
+Users enter details about their daily activities, and the system calculates their footprint based on scientific emission factors. The platform provides:
 ✅ Real-time carbon footprint estimation
 ✅ Category-wise breakdown (transport, energy, food, waste, shopping)
 ✅ Data visualizations for better insights
