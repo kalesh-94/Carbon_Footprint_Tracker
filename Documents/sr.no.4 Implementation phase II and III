@@ -47,6 +47,13 @@ Achieved the lowest RMSE and highest R² Score.
 
 
 
+| **Model**                               | **RMSE (↓ Lower is better)** | **R² Score (↑ Closer to 1 is better)** |
+|-----------------------------------------|:----------------------------:|:--------------------------------------:|
+| **Linear Regression (LR)**              |        261.61                |              0.9341                    |
+| **MLP Regressor (Neural Network - NN)** |        261.61                |              0.9341                    |
+| **Gradient Boosting Regressor (GBR)**   |      216.16 (Best)           |           0.9550 (Best)                |
+
+
 
 
 
